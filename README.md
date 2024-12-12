@@ -1,6 +1,3 @@
-
-
-```markdown
 # Fuel Station Management System
 
 The Fuel Station Management System is designed to streamline the operations of a fuel station by efficiently managing employee details, fuel suppliers, customers, and their associated information. The project harnesses the power of Java's object-oriented programming (OOP) capabilities and database connectivity to ensure a robust and scalable solution.
